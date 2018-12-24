@@ -1,4 +1,4 @@
-# Test composet pkg
+# Test composer pkg
 
 `composer require slaawwa/composer-test`
 
